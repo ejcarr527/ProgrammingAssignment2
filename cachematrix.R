@@ -1,5 +1,5 @@
 ## 
-##      The functions here will demonstrat the lexical scoping capabilities that
+##      The functions here will demonstrate the lexical scoping capabilities that
 ##      the R programming language has.  Primarily this means that R has a 
 ##      hierarchical set of environments where we are able to create functions
 ##      within functions and complete assignment states to variables in other
